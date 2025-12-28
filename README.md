@@ -1,0 +1,66 @@
+# BE:FIRST – Kick Start
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+THE FIRST to BE
+受け継いでく勇気
+2度目の Days13
+Re-Kickstart timing
+1 get it 2 3
+あのA, B, Cから生きる経験値
+Let it be!
+Our way 先陣切る
+2021,gotta be free!
+Let's get it done
+あんな たかが失敗
+気にせずに move on!
+君と過去も未来(さき)も背負って
+I'll take you to the first!
+A burden you bring on?
+No matter what?
+Be the shining one!
+"It's gonna be alright"
+あの日の言葉が背中を押す my days
+your days
+ただ進むだけ
+殴り書きの my way
+際限ない good days
+ここにない でも
+don't worry about it
+下がり気味も Kick Start
+響かせろよ my style
+YOLO
+I hear
+Our song on the radio
+繋がっていくストーリー
+そう あの日々を
+七色で輝(てら)そう
+駆け抜けて来た今
+忘れられない時間 Uh
+Living in the moment
+ここから Kick Start
+空に掲げた星を yeah
+雲を突き抜け
+いつでも見つける my way
+手にした過去だって bye
+Let's sing together forever
+Yeah yeah
+Let's dance together forever
+Yeah yeah yeah
+夢にまで見た空の果てまで
+I hear
+Our song on the radio
+繋がっていくストーリー
+そう あの日々を
+七色で輝(てら)そう
+駆け抜けて来た今
+忘れられない時間
+I'm on my way yeah
+ここから Kick Start
+Uh uh 空に掲げた星を
+ここから Kick Start
+Don't give up,
+please stand by me!
+Let's kick start it
+```
