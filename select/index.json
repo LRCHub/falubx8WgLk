@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Kick Start",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T18:32:59.159281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kick Start My Heart",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/01_Kick_Start_My_Heart_Great_White.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kick Start",
+      "artist": "Lisa Loeb",
+      "has_synced": true,
+      "path": "select/02_Kick_Start_Lisa_Loeb.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kick Start My Heart",
+      "artist": "Alannah Myles",
+      "has_synced": true,
+      "path": "select/03_Kick_Start_My_Heart_Alannah_Myles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I GOTTA KICK START NOW",
+      "artist": "Vamps",
+      "has_synced": false,
+      "path": "select/04_I_GOTTA_KICK_START_NOW_Vamps.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KICK-START",
+      "artist": "ICHILLIN'",
+      "has_synced": false,
+      "path": "select/05_KICK-START_ICHILLIN'.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KICK-START (킥스타트)",
+      "artist": "ICHILLIN'",
+      "has_synced": false,
+      "path": "select/06_KICK-START_(킥스타트)_ICHILLIN'.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KICK-START",
+      "artist": "ICHILLIN'",
+      "has_synced": false,
+      "path": "select/07_KICK-START_ICHILLIN'.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kick Start",
+      "artist": "BE:FIRST",
+      "has_synced": true,
+      "path": "select/08_Kick_Start_BE_FIRST.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KICK‐START",
+      "artist": "ICHILLIN’",
+      "has_synced": false,
+      "path": "select/09_KICK‐START_ICHILLIN’.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kick Start My Heart",
+      "artist": "Jack Russell (Great White)",
+      "has_synced": true,
+      "path": "select/10_Kick_Start_My_Heart_Jack_Russell_(Great_White).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KICK START",
+      "artist": "K-FORCE",
+      "has_synced": false,
+      "path": "select/11_KICK_START_K-FORCE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kick-Start",
+      "artist": "DISH//",
+      "has_synced": true,
+      "path": "select/12_Kick-Start_DISH.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kick Start My Heart",
+      "artist": "Allannah Myles",
+      "has_synced": true,
+      "path": "select/13_Kick_Start_My_Heart_Allannah_Myles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kick Start",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Kick_Start_BE_FIRST.txt"
+    }
+  ]
+}
